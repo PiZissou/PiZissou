@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @PiZissou
-- 👀 I’m interested in developping apps for Cg industry, mobile device, and web. 
-- 🌱 I’m currently learning web Qt C++ and PyQt
-- 💞️ I’m looking to collaborate on Blender 3d plugins
-- 📫 How to reach me at pietrozissou@gmail.com
+- 👀 I’m interested in developping softwares, plugins or video games written in C++ / C#. 
+- 📫 How to reach me at muedesign@me.com
 
 <!---
 PiZissou/PiZissou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
