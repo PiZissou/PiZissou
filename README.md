@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PiZissou
+- 👋 Hi, I’m Pierre Lasbignes!
 - 👀 I’m interested in developping softwares, plugins or video games written in C++ / C#. 
 - 📫 How to reach me at muedesign@me.com
 
