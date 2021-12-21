@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pierre Lasbignes!
 - 👀 I’m interested in developping softwares, plugins or video games written in C++ / C#. 
 - Here, you can see some of plugins i've written for TatProduction.
-- 📫 How to reach me at muedesign@me.com
+- 📫 How to reach me at pierre.lasbignes@protonmail.com
 
 <!---
 PiZissou/PiZissou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
